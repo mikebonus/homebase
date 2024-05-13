@@ -5,7 +5,8 @@ import android.os.Bundle
 import android.os.PersistableBundle
 import android.util.Log
 
-
+// HOMEBASE
+// [2024-05-14]
 class MainActivity : AppCompatActivity() {
 
     val TAG = "TAG"
